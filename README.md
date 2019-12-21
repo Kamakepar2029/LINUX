@@ -14,4 +14,4 @@ This script was made to start Mysql on phone(Termux) and on PC(bash)
 3.Enjoy making databases with mariadb and mysql 
 
 
-command :git clone https://github.com/Kamakepar2028/LINUX
+command :git clone https://github.com/Kamakepar2029/LINUX
