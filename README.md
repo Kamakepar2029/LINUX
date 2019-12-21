@@ -1,2 +1,3 @@
 # LINUX
 Linux things
+Mysql installer for different os...
